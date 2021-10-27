@@ -90,6 +90,11 @@ body.skin-active .skin-wrapper{
     height: auto !important;
 }
 
+.widget .bx-wrapper .bx-controls-direction a {
+    top: 32%;
+    transform: translateY(-50%);
+}
+
 .widget .more {
     margin-top: 50px;
 }
@@ -106,6 +111,14 @@ body.skin-active .skin-wrapper{
     width: 100%;
 }
 
+.epaper-img .text-block {
+    padding: 20px;
+}
+
+.epaper-img .paper-wrapper a {
+    width: 350px;
+    bottom: 20%;
+}
 
 
 
